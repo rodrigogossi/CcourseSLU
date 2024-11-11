@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "heelo.C": "cpp"
+        "heelo.C": "cpp",
+        "iostream": "cpp"
     }
 }
